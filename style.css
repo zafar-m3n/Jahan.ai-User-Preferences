@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.notification-form-style label,
+.theme-form-style label,
+.privacy-form-style label {
+  width: auto !important;
+}
+.settings-header {
+  padding: 0 15px;
+}
